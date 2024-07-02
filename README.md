@@ -3,7 +3,7 @@
     RDM enables unsupported high resolutions on Macs. Set your Mac display to higher unsupported screen resolutions.
 </p>
 
-<img src="Resources/rdm_menu.png" />
+<img src="Resources/rdm_menu.png" width="400px" />
 
 ## List of contents
 - [Description](#description)
